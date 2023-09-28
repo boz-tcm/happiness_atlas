@@ -1,2 +1,2 @@
 # happiness_atlas
-Pursuit of happiness in the name of the World Happiness Index
+The Pursuit of Happiness
